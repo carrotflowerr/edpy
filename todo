@@ -1,5 +1,6 @@
+- prompt to name file
 - edit file after making it.
-- better saving system
-- command mode
-- default line numbers
-- delete line command
+X better saving system
+X command mode
+X delete line command
+X clear command
